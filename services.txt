@@ -1,0 +1,7 @@
+ionic g s services/movie --skipTests=true
+
+ionic g m components
+
+ionic g c components/slideshow-backdrop
+ionic g c components/slideshowPoster --skipTests=true
+ionic g c components/slideshowPares --skipTests=true

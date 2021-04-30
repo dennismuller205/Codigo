@@ -1,0 +1,8 @@
+esto debo importar en el(app.module.ts)
+import {HttpClientModule} from 'angular/common/http';
+
+esto va debajo de 
+
+ AppRoutingModule
+
+,HttpClientModule
